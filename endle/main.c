@@ -347,8 +347,8 @@ int main() {
     vec_init(&targets, NUM_TARGETS);
     vec_init(&dictionary, NUM_DICT);
 
-    const char* p_path = "/Users/marco/CLionProjects/untitled1/proper word.txt";
-    const char* l_path = "/Users/marco/CLionProjects/untitled1/word list.txt";
+    const char* p_path = "/Users/marco/CLionProjects/Endle/proper word.txt";
+    const char* l_path = "/Users/marco/CLionProjects/Endle/word list.txt";
 
     FILE *f1 = fopen(p_path, "r"), *f2 = fopen(l_path, "r");
     if (!f1 || !f2) { printf("Error: Dictionary files not found.\n"); return 1; }
