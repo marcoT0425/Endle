@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/marco/CLionProjects/untitled1/cmake-build-debug",
+  "command": "/usr/bin/cc -g -std=gnu2x -arch arm64 -fcolor-diagnostics -o CMakeFiles/untitled1.dir/main.c.o -c /Users/marco/CLionProjects/untitled1/main.c",
+  "file": "/Users/marco/CLionProjects/untitled1/main.c",
+  "output": "/Users/marco/CLionProjects/untitled1/cmake-build-debug/CMakeFiles/untitled1.dir/main.c.o"
+}
+]
