@@ -1,4 +1,5 @@
-# Endle
+# EndleBot
+
 A POST-game Wordle, Quordle, Sedecordle etc solver
 
 A highly flexible wordle solver with using shannon entropy
